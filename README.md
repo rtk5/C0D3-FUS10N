@@ -13,11 +13,9 @@ We strongly encourage all participants to attempt the challenges independently b
 1. Maximize your learning experience
 2. Develop your problem-solving skills
 3. Provide a more rewarding sense of achievement
-   
+
+##Tech Leads: Abhijit M S && K R DRUVA
 **Chair:** Naman
-
-**Tech Leads:** Abhijit M S && K R DRUVA
-
 ## Tech Members
 1. Adithi
 2. Arshad Khan
