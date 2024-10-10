@@ -1,6 +1,6 @@
-# C0D3-FUS10N
+# C0D3-FUS10N[HACK&C0D3]
 OFFICIAL REPOSITORY OF CODE-FUSION
-##THEME: HACK AND CODE
+## THEME: HACK AND CODE
 ### Event Date & Time : 4th October 2024 (5PM) to 5th October 2024 (5PM)
 ### Number of CTF-Rounds : 4
 ### Duration of Each-Round : 1 hour
