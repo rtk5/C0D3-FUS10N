@@ -14,10 +14,17 @@ OFFICIAL REPOSITORY OF CODE-FUSION
 **Tech Members:**
 
 1.Adithi
+
 2.Musharaf
+
 3.Sai Nithin
+
 4.Nilesh Sriram
+
 5.Rithvik
+
 6.Rishi
+
 7.Anupam G
+
 8.Shree Hari
