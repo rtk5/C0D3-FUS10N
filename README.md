@@ -19,9 +19,9 @@ We strongly encourage all participants to attempt the challenges independently b
 **Tech Leads:** Abhijit M S && K R DRUVA
 
 ## Tech Members
-1.Adithi
-2.Arshad Khan
-3.Sai Nithin
+1. Adithi
+2. Arshad Khan
+3. Sai Nithin
 4.Nilesh Sriram
 5.Rithvik
 6.Rishi
