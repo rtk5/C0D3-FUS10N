@@ -9,6 +9,7 @@ OFFICIAL REPOSITORY OF CODE-FUSION
 
 **Chair:** Naman
 **Tech Leads:** Abhijit M S && K R DRUVA
+
 **Tech Members:**
 1.Adithi
 2.Musharaf
