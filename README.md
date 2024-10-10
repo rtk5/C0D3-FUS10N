@@ -4,9 +4,9 @@ OFFICIAL REPOSITORY OF CODE-FUSION
 ### Event Date & Time : 4th October 2024 (5PM) to 5th October 2024 (5PM)
 ### Number of CTF-Rounds : 4
 ### Duration of Each-Round : 1 hour
-##**Chair:** Naman
+**Chair:** Naman
 
-##**Tech Leads:** Abhijit M S && K R DRUVA
+**Tech Leads:** Abhijit M S && K R DRUVA
 
 **CODE-FUSION** is a CTF/Hackathon Organized by IEEE Student Branch PESU ECC.
 
