@@ -22,12 +22,12 @@ We strongly encourage all participants to attempt the challenges independently b
 1. Adithi
 2. Arshad Khan
 3. Sai Nithin
-4.Nilesh Sriram
-5.Rithvik
-6.Rishi
-7.Anupam G
-8.Shree Hari
-9.Musharaf
-10.Rhea
-11.Salma Ashma
+4. Nilesh Sriram
+5. Rithvik
+6. Rishi
+7. Anupam G
+8. Shree Hari
+9. Musharaf
+10. Rhea
+11. Salma Ashma
 
