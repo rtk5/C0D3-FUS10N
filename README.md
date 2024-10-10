@@ -7,6 +7,12 @@ OFFICIAL REPOSITORY OF CODE-FUSION
 
 **CODE-FUSION** is a CTF/Hackathon Organized by IEEE Student Branch PESU ECC.
 
+**Before Proceeding to Writeups:** 
+We strongly encourage all participants to attempt the challenges independently before consulting the writeups. This approach will:
+1.Maximize your learning experience
+2.Develop your problem-solving skills
+3.Provide a more rewarding sense of achievement
+
 **Chair:** Naman
 
 **Tech Leads:** Abhijit M S && K R DRUVA
