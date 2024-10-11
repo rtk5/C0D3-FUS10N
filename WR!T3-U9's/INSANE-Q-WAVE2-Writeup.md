@@ -6,7 +6,7 @@
 #### Points: 50
 
 #### Wave: 2
-#### Number of Solves: 2
+#### Number of Solves: 11
 
 
 #### Challenge Description: OBJECTIVE: Search through a directory structure of 8,401 entries to identify and decrypt an anomalous ciphertext file. Successful decryption yields the required flag.
