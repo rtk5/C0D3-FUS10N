@@ -6,6 +6,7 @@
 #### Points: 100
 
 #### Wave: 1
+#### Number of Solves: 2
 
 #### Challenge Description: The participants are provided with a transcript of the conversation between members of the Seal team COmmunity.Furthermore,the Conversation is specifically mentions where Bravo team is getting deployed next specifically the pizza place closest to Hitler's Hideout in Argentina.
 #### Hints: TITLE
