@@ -41,4 +41,4 @@ FLAG-RAID{C0NGR4L4T!0NS-F1nAlly}
 - Text searching utilities
 
 ---
-**Note:** Good luck, hackers!
+**Note:** Good luck, hackers!:))
