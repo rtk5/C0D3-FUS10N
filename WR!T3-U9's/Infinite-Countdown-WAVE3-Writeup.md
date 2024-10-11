@@ -80,7 +80,7 @@ For advanced users, reverse engineering the executable can help you bypass the w
 
 The **Infinite Countdown** challenge can be solved either by manually answering the questions and waiting through the delays (which add up to around 5 minutes) or by using tools like `strings`, Ghidra, or IDA to extract the flag directly. Beginners can comfortably solve this challenge by simply interacting with the program, while more advanced users can opt for reverse engineering to bypass the waiting mechanism.
 
-you can download the infinite_countdown.c file that was used to create the executable [here](\WR!T3-U9's\Solution-Files\Infinite-Countdown\infinite_countdown.c)
+you can download the infinite_countdown.c file that was used to create the executable [here](/WR!T3-U9's/Solution-Files/Infinite-Countdown/infinite_countdown.c)
 
 The final flag will be in the format:
 

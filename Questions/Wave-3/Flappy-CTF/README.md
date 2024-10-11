@@ -14,7 +14,7 @@ Your task is simple: play the terminal-based Flappy Bird game and guide Flappy t
 
 ## Executable File
 
-Download the executable file [here](/flappy_ctf.exe).
+Download the executable file [here](./flappy_ctf.exe).
 
 ## Flag Format
 

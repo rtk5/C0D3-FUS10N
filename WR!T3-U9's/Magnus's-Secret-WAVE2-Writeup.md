@@ -68,7 +68,7 @@ Now, we need to use the technique outlined in **wintrcat's** video to decode the
    python run_decode.py
    ```
 
-- you can get the run_decode.py [here](/WR!T3-U9's/Solution-Files/Magnus's-Secret/run_decode.py)
+you can get the run_decode.py [here](/WR!T3-U9's/Solution-Files/Magnus's-Secret/run_decode.py)
 
 This will generate an output text file, likely named `flag.txt`, containing the flag.
 

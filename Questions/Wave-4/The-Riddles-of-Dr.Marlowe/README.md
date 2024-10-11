@@ -10,7 +10,7 @@ The file may seem like a standard document, but Dr. Marlowe is famous for embedd
 
 You are given a PDF file that appears to be ordinary. Your task is to delve deep into the file and uncover the hidden message that Dr. Evelyn Marlowe has embedded. Look beyond the obvious and use your skills to reveal what lies beneath.
 
-Download the attached file [here](/FinancialReport.pdf).
+Download the attached file [here](./FinancialReport.pdf).
 
 ## Hints
 

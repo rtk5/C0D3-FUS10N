@@ -12,7 +12,7 @@ You are provided with a file containing a mixture of different elements. Your go
 
 ## Mysterious File
 
-Download the file [here](/UNKNOWN).
+Download the file [here](./UNKNOWN).
 
 ## Hints
 

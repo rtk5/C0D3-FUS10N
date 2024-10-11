@@ -12,7 +12,7 @@ Study the provided chessboard image closely. The flag is hidden within the arran
 
 ## Chessboard Image
 
-Download the chessboard image [here](/chess.jpg).
+Download the chessboard image [here](./chess.jpg).
 
 ## Hints
 

@@ -8,7 +8,7 @@ Your goal is to extract and decipher the password from the given packet capture 
 
 ## Packet Capture File
 
-Download the packet capture file [here](/TOM-CRUISE-7E:DA:8B:BE:B7:AF.cap).
+Download the packet capture file [here](./TOM-CRUISE-7E_DA_8B_BE_B7_AF.cap).
 
 ## Hint
 

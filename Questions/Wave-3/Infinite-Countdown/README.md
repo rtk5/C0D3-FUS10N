@@ -11,7 +11,7 @@ An incorrect answer ends the program, forcing you to start over.
 
 ## Executable File
 
-Download the executable file [here](/infinite_countdown.exe).
+Download the executable file [here](./infinite_countdown.exe).
 
 ## Hint
 
