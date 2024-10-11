@@ -1,6 +1,13 @@
 # <h1 align="center">C0D3-FUS10N</h1>
 OFFICIAL REPOSITORY OF CODE-FUSION
-![Poster](Poster.jpeg)
+
+<div align="center">
+  <h1>C0D3-FUS10N</h1>
+  <img src="Poster.jpeg" alt="Poster" width="500">
+  
+  Tech Leads: Abhijit M S & K R DRUVA  
+  *Chair: Naman*
+</div>
 ## THEME: HACK AND CODE
 ### Event Date & Time : 4th October 2024 (5PM) to 5th October 2024 (5PM)
 ### Number of CTF-Rounds : 4
@@ -15,13 +22,6 @@ We strongly encourage all participants to attempt the challenges independently b
 2. Develop your problem-solving skills
 3. Provide a more rewarding sense of achievement
 
-<div align="center">
-  <h1>C0D3-FUS10N</h1>
-  <img src="Poster.jpeg" alt="Poster" width="500">
-  
-  Tech Leads: Abhijit M S & K R DRUVA  
-  *Chair: Naman*
-</div>
 ## Tech Members
 1. Adithi
 2. Arshad Khan
