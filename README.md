@@ -1,5 +1,6 @@
-# C0D3-FUS10N[HACK&C0D3]
+# <h1 align="center">C0D3-FUS10N</h1>
 OFFICIAL REPOSITORY OF CODE-FUSION
+![Poster](Poster.jpeg)
 ## THEME: HACK AND CODE
 ### Event Date & Time : 4th October 2024 (5PM) to 5th October 2024 (5PM)
 ### Number of CTF-Rounds : 4
@@ -29,5 +30,5 @@ We strongly encourage all participants to attempt the challenges independently b
 10. Rhea
 11. Salma Ashma
 
-![Poster](Poster.jpeg)
+
 
