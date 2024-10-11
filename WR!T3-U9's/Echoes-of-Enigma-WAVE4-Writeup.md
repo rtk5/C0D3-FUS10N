@@ -10,6 +10,8 @@
 
 #### Wave: 4
 
+#### Number of Solves: 14
+
 ---
 
 ## Challenge Overview
