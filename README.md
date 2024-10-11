@@ -5,7 +5,7 @@ OFFICIAL REPOSITORY OF CODE-FUSION
   <h1>C0D3-FUS10N</h1>
   <img src="Poster.jpeg" alt="Poster" width="500">
   
-  <h2>*Tech Leads: Abhijit M S & K R DRUVA*</h2>
+  <h2>Tech Leads: Abhijit M S & K R DRUVA</h2>
   <h3>Chair: Naman</h3>
 </div>
 
