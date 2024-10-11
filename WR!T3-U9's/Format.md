@@ -6,6 +6,7 @@
 #### Points: [Number of Points]
 
 #### Wave: [which wave was the Question deployed]
+#### Number of Solves: __
 
 
 #### Challenge Description: [Briefly explain the challenge, including the goal and any specific requirements or constraints.]
