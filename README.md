@@ -1,8 +1,7 @@
 # <h1 align="center">C0D3-FUS10N</h1>
-OFFICIAL REPOSITORY OF CODE-FUSION
+
 
 <div align="center">
-  <h1>C0D3-FUS10N</h1>
   <img src="Poster.jpeg" alt="Poster" width="500">
   
   <h2>Tech Leads: Abhijit M S & K R DRUVA</h2>
