@@ -1,6 +1,6 @@
 # Challenge Name: Carve
 
-#### Author: [Your Name]
+#### Author: Rithvik Rajesh Matta
 
 #### Difficulty: Medium
 
