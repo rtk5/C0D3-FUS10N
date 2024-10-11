@@ -15,8 +15,13 @@ We strongly encourage all participants to attempt the challenges independently b
 2. Develop your problem-solving skills
 3. Provide a more rewarding sense of achievement
 
-##Tech Leads: Abhijit M S && K R DRUVA
-**Chair:** Naman
+<div align="center">
+  <h1>C0D3-FUS10N</h1>
+  <img src="Poster.jpeg" alt="Poster" width="500">
+  
+  Tech Leads: Abhijit M S & K R DRUVA  
+  *Chair: Naman*
+</div>
 ## Tech Members
 1. Adithi
 2. Arshad Khan
