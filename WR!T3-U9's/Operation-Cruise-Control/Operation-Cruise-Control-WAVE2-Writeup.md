@@ -32,7 +32,7 @@ hcxpcapngtool -o hash.hc22000 TOM-CRUISE-7E:DA:8B:BE:B7:AF.cap
 
 Alternatively, you can also use an online tool like [cap2hashcat](https://hashcat.net/cap2hashcat/) for conversion.
 
-you can download the hash.hc22000 [here](/WR!T3-U9's/Solution-Files/Operation-Cruise-Control/hash.hc22000)
+you can download the hash.hc22000 [here](./hash.hc22000)
 
 If you're new to handling packet captures, you can read more about packet analysis with **[Wireshark](https://www.techtarget.com/whatis/definition/Wireshark#:~:text=Wireshark%20is%20a%20widely%20used,ensure%20smooth%20operations%20and%20security.)**, a widely-used network protocol analyzer.
 
@@ -56,7 +56,7 @@ This command generates a wordlist where:
 - `^` is a placeholder for a special character.
 - `%%%` represents three digits.
 
-you can download the wordlist.txt [here](/WR!T3-U9's/Solution-Files/Operation-Cruise-Control/wordlist.txt)
+you can download the wordlist.txt [here](./wordlist.txt)
 
 For more information on generating custom wordlists, check out **[this guide on creating wordlists with Crunch](https://medium.com/@cuncis/building-unique-wordlists-with-crunch-1ca49f1f188b)**.
 
@@ -103,7 +103,7 @@ hcxpcapngtool.exe -o hash.hc22000 TOM-CRUISE-7E:DA:8B:BE:B7:AF.cap
 
 This command will create a file called `hash.hc22000`, which is compatible with Hashcat.
 
-you can download the hash.hc22000 [here](/WR!T3-U9's/Solution-Files/Operation-Cruise-Control/hash.hc22000)
+you can download the hash.hc22000 [here](./hash.hc22000)
 
 ### Step 3: Generate Wordlist with Crunch
 
@@ -116,7 +116,7 @@ cd C:\crunch
 
 This command creates a `wordlist.txt` file containing all possible combinations based on the pattern:  
 
-you can download the wordlist.txt [here](/WR!T3-U9's/Solution-Files/Operation-Cruise-Control/wordlist.txt)
+you can download the wordlist.txt [here](./wordlist.txt)
 
 - **Mapother** (name)
 - **^** (special character)

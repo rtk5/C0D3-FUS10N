@@ -81,7 +81,7 @@ If you're familiar with reverse engineering, you can analyze the executable file
 
 For beginners, the most straightforward way to solve this challenge is by playing the **Flappy CTF** game and collecting all characters of the flag. The game is designed to be fun and easy to play, with the total flag revealed as you successfully navigate through the pillars. For those with reverse engineering skills, the flag can also be extracted using tools like **Ghidra**, **IDA Free**, or **x64dbg**.
 
-you can download the flappy_ctf.c file that was used to create the executable [here](/WR!T3-U9's/Solution-Files/Flappy-CTF/flappy_ctf.c)
+you can download the flappy_ctf.c file that was used to create the executable [here](./flappy_ctf.c)
 
 The final flag will be:
 

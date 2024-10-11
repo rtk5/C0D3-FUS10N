@@ -45,7 +45,7 @@ To ensure the audio file is recognized correctly, we need to add the proper MP3 
 
 *Resource*: If you're unfamiliar with how to use a hex editor, this **[Walkthrough](https://marcellelee.medium.com/ctf-challenge-walkthrough-modified-header-2a4a33976b6d)** is a good place to start.
 
-you can download the mp3 file [here](/WR!T3-U9's/Solution-Files/Echoes-of-Enigma/hearme.mp3)
+you can download the mp3 file [here](./hearme.mp3)
 
 ### Step 3: Open the File in Audacity
 
@@ -64,7 +64,7 @@ For a detailed guide on how to work with audio tracks in Audacity, refer to **[t
 
 *Tip*: If you’re new to using Audacity for removing audio components, you can check out **[this guide](https://support.audacityteam.org/audio-editing/splitting-a-recording-into-separate-tracks)**.
 
-you can download the morse.mp3 file [here](/WR!T3-U9's/Solution-Files/Echoes-of-Enigma/morse.mp3)
+you can download the morse.mp3 file [here](./morse.mp3)
 
 ### Step 5: Analyze the Remaining Audio
 

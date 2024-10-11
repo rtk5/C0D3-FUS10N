@@ -52,7 +52,7 @@ Dr. Evelyn Marlowe left behind a PDF file that seems ordinary at first glance. H
 
 6. Right-click and choose the option to **Export selection** as a new file, and save it as `Flag.png`.
 
-you can download the Flag.png [here](/WR!T3-U9's/Solution-Files/The-Riddles-of-Dr.Marlowe/Flag.png)
+you can download the Flag.png [here](./Flag.png)
 
 ### Step 2: Analyze the PNG for Hidden Data
 
