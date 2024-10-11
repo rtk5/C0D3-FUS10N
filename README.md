@@ -29,3 +29,5 @@ We strongly encourage all participants to attempt the challenges independently b
 10. Rhea
 11. Salma Ashma
 
+![Poster](Poster.jpeg)
+
