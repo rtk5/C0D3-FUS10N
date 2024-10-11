@@ -1,5 +1,4 @@
-# Challenge Name: [Name of the Challenge]
-
+# Challenge Name: 
 #### Author: [Your Name]
 
 #### Difficulty: [Easy, Medium, Hard,Hard +999]
@@ -17,13 +16,3 @@ Steps to Solve:
 
 ## Steps:
 
-[Detailed instructions]
-[Include website links or photos and screenshots of solved steps]
-
-...
-
-#### Flag Format: 
-
-#### Additional Notes: [Any additional information or clarifications]
-
-*File-Name:-[Name of the Queston]-[Waveno]-Writeup.md*
