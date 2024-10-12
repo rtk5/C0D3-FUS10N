@@ -31,5 +31,5 @@ Identify the two-step reaction based on the provided reaction scheme.
 
 #### Flag Format:  
 ```
-flag_raid{OXYMERCURATION-DEMERCURATION}
+flag_raid{oxymercurationdemercuration}
 ```
