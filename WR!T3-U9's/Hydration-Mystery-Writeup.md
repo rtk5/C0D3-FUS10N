@@ -14,7 +14,7 @@
 Identify the two-step reaction based on the provided reaction scheme. 
 
 #### Hints:  
-- identify the provided reaction steps.  
+- Identify the provided reaction steps.  
 - Search common hydration reactions in organic chemistry.
 
 ## Steps:
