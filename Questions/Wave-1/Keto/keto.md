@@ -7,10 +7,10 @@ Find the flag from the following ketones!
 ```
 CH3     CH3-CO-CH2-CH3        O
  |                            ||
- |                           / \
-C=O                         /   \
- |                         |     |
-CH3                         \   / 
+C=O                          / \
+ |                          /   \
+CH3                        |     |
+                            \   / 
                              \_/
 ```
 ## Flag Format:
