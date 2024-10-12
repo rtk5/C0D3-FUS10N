@@ -4,7 +4,7 @@ In organic chemistry, ketones are a type of carbonyl compound where the carbonyl
 
 ## Question:
 Find the flag from the following ketones!
-
+```
 CH3     CH3-CO-CH2-CH3        O
  |                            ||
  |                           / \
@@ -12,7 +12,7 @@ C=O                         /   \
  |                         |     |
 CH3                         \   / 
                              \_/
-
+```
 ## Flag Format:
 ```
 flag_raid{<first letter of each ketone name in CAPS><carbon chain length of each ketone>}
