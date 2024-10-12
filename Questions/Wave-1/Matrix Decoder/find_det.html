@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTF Challenge</title>
+    <style>
+        /* Hiding the flag in style! */
+        .hidden-text {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the CTF Challenge!</h1>
+    <p>Find the hidden flag somewhere on this page.</p>
+    
+    <!-- If determinant is 0, then flag is: FLAG-RAID{I_THINK_I_FOUND_IT} -->
+    
+    <script>
+        var animalArray = ["cat", "dog", "fish", "elephant"];
+        var randomNumber = Math.random() * 100;
+
+        // Check this math function help
+        function mathFunction(input) {
+            var mathResult = animalArray[Math.floor(Math.random() * animalArray.length)];
+            for (var i = 0; i < 10; i++) {
+                console.log("Random nonsense output: " + mathResult + " " + (input * randomNumber));
+            }
+            return mathResult.length;
+        }
+
+        var length = mathFunction(5);
+        console.log("Nonsense function called, length: " + length);
+
+        // Log message to hint at finding the flag
+        console.log("The flag is hidden. Can you find it?");
+        console.log("Is your determinant value correct?");
+
+        // Is the flag encoded here? (requires decoding)
+        var encodedFlag = "Y3RmPWNvbW1lbnRfaGlkZGVuX2ZsYWd9"; // Base64 encoded flag
+        // You'll need to decode the base64 value to get the flag
+        console.log("The flag is hidden. Can you find it?");
+    </script>
+    
+    <div class="styling-text">
+        Try flag:<br/>
+        <!-- If determinant is not zero then flag is: FLAG-RAID{HAVE_U_FOUND_IT} -->
+        flag-raid{I_AM_A_FLAG}
+    </div>
+
+    <p>Use the developer tools to inspect elements, check comments, or investigate the JavaScript console.</p>
+</body>
+</html>
