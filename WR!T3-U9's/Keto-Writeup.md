@@ -17,8 +17,6 @@ Find the flag from the given ketones based on their names and carbon chain lengt
 Recognize the ketones based on their structure.  
 Pay attention to their carbon chain lengths.
 
-Steps to Solve:
-
 ## Steps:
 
 1. Identify the ketones:  
