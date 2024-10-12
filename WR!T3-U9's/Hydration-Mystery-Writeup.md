@@ -11,7 +11,7 @@
 #### Number of Solves: 75
 
 #### Challenge Description: 
-Identify the two-step hydration reaction based on the provided reaction scheme. 
+Identify the two-step reaction based on the provided reaction scheme. 
 
 #### Hints:  
 - identify the provided reaction steps.  
