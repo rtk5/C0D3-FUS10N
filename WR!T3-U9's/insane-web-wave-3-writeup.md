@@ -1,5 +1,5 @@
 # Challenge Name: Insane Web  
-#### Author: [rishi A Shet]  
+#### Author: [Rishi A Sheth]  
 
 #### Difficulty: Medium  
 
