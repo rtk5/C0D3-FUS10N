@@ -1,0 +1,765 @@
+
+
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+
+
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, FLAG-RAID{gh4s7L1ghtsB3am}looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+
+
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+Once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
+once upon a time, in a village nestled between the great mountains and the dark forest, there lived a young boy named Arin. Arin was not like the other children in the village. While they spent their days playing games and learning their family trades, Arin had a deep fascination with the mysteries of the world. He often wandered through the village's library, a small room filled with dusty old books, ancient maps, and scrolls that no one had touched for years.
+
+One day, while exploring the highest shelves of the library, Arin stumbled upon a book bound in leather, with no title on the cover. Curiosity piqued, he opened the book to find it filled with tales of long-lost kingdoms, hidden treasures, and most intriguing of all, a legend about an ancient key that could unlock any door in the world.
+
+The legend spoke of the key being hidden in a temple far beyond the village, deep in the forest where no one dared to venture. Arin's heart raced as he read about the many brave adventurers who had tried and failed to find the key. The text was cryptic, filled with riddles, one of which read:
+
+“Among the whispers of the trees, where shadows dance and rivers freeze, you’ll find the key if you are wise, but first, you'll need to trust your eyes."
+
+That night, Arin couldn’t sleep. The thought of the key consumed him. What if the key could unlock not just doors, but the secrets of the world? He decided right then and there that he would be the one to find it.
+
+Early the next morning, before the sun rose, Arin packed his bag with bread, cheese, and his father's old dagger, and set off toward the forest. The villagers warned him that no one who had entered the forest had ever returned, but Arin’s determination burned brighter than his fear.
+
+The trees loomed tall and ancient as he stepped into the forest. The air was thick with the scent of moss and earth, and strange sounds echoed in the distance. Hours passed as Arin trekked deeper into the wilderness. As the light began to fade, he came upon a clearing with a small stone shrine in its center. The shrine was old, covered in vines, and it bore an inscription in a language Arin couldn’t understand.
+
+Just as he was about to leave, he noticed something out of place — a symbol carved into the stone, a series of lines and circles. It was the same symbol he had seen in the book from the library. Arin’s pulse quickened. He realized this was no ordinary shrine; it was the first clue in his quest.
+
+For days, Arin followed these clues, each leading him deeper into the forest and closer to the fabled temple. Along the way, he encountered many challenges — wild animals, treacherous terrain, and strange creatures that seemed to be watching his every move from the shadows. But Arin pressed on, determined to find the key.
+
+Finally, after what felt like weeks, Arin reached a place where the trees parted, revealing a great stone temple, overgrown with ivy and hidden from the world. He approached cautiously, his heart pounding in his chest. The entrance was sealed by a massive stone door, but there was a slot in the center, just the size of a key.
+
+Arin searched the area, looking for any sign of the key, but found nothing. Frustrated and exhausted, he sat down on a nearby rock and pulled out the book from his bag. As he flipped through the pages, he realized that the riddles had been guiding him not just through the forest, but toward a specific way of thinking.
+
+He remembered the line: “Trust your eyes.” Arin stood up and looked around. He noticed that the vines on the temple door formed a peculiar pattern, almost like letters. He stepped closer and, sure enough, the vines spelled out a word: Look beneath.
+
+Confused, Arin glanced down at his feet. The ground was covered in leaves and dirt. Kneeling, he began to dig, and after a few moments, his fingers hit something solid. Pulling it out of the ground, he uncovered a small, ornate box. Inside the box was a golden key, its surface engraved with intricate symbols.
+
+Trembling with excitement, Arin inserted the key into the slot in the door. With a loud rumble, the door began to open, revealing a dark passageway leading into the temple.
+
+The temple was vast and filled with wonders Arin had never imagined. Golden statues, ancient artifacts, and flag raid that told the story of a forgotten civilization adorned the walls. In the center of the room was a pedestal, and on it rested a small, unassuming chest.
+
+Arin approached the chest, knowing that whatever lay inside would be the culmination of his journey. With great care, he opened the chest, and there, shining brightly, was a scroll. On the scroll were inscribed the words: The key you seek is not one that opens doors, but one that unlocks the mind.
+
+Arin realized then that the true treasure was not the key itself, but the knowledge and wisdom he had gained along the way. Smiling, he rolled up the scroll and placed it in his bag. As he left the temple, he knew his adventure was only just beginning.
+
+Little did he know, the scroll contained secrets far greater than he had ever imagined. Secrets that could change the course of history.
+
+Somewhere, hidden within the scroll, lay another secret — CTF{grep_master}. But only those who knew how to look would ever find it.
